@@ -1,11 +1,3 @@
-## BCI
-
-### Journal
-
-IEEE Transactions on Human-Machine Systems (THMS)
-
-IEEE Transactions on Affective Computing (TAC)
-
 ## Robot & Control
 
 ### Journal
