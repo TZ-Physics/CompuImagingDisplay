@@ -1,20 +1,20 @@
 # Computational Optical Perception, Imaging and Display
 
-Computer Graphics
-
 Computational Sensing
 
 Computational Imaging
 
-Computational Display
+Computational Display & AR/VR
 
 Computational Microcope
 
+Computer Graphics
+
 3D Vision
 
-AR/VR&MR
-
 Agent
+
+Computer-Human Interaction
 
 ## Journal
 
