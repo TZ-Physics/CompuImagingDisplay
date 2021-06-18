@@ -1,4 +1,4 @@
-## Computer-Human Interaction
+## Computer-Human Interaction & Ubiquitous Computing
 
 ### Journal
 
