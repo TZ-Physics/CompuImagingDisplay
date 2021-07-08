@@ -16,6 +16,6 @@
 
 ## High Dimension Data Analysis (HDDA)
 
-## Autonomous Robots (AR)
+## Autonomous Robots (ATR)
 
 ## Computer-Human Interaction (HCI)
