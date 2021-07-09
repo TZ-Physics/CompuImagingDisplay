@@ -6,7 +6,7 @@
 
 ## Computational Imaging
 
-## Computational Display & AR/VR
+## Computational Display
 
 ## Computational Microcope
 
