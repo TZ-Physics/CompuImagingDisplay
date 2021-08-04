@@ -1,4 +1,4 @@
-# Computational Optical Perception, Imaging and Display （COPID）
+# Computational Optical Perception, Imaging and Interaction（COPII）
 
 ******
 
