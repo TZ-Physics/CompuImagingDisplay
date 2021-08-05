@@ -2,13 +2,13 @@
 
 ******
 
-## Computational Sensing
+## Computational Sensing (CS)
 
-## Computational Imaging
+## Computational Imaging (CI)
 
-## Computational Display
+## Computational Display (CD)
 
-## Computational Microcope
+## Computational Microcope (CM)
 
 ******
 
